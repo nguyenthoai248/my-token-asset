@@ -1,0 +1,12 @@
+{
+    "name": "TNOS",
+    "symbol": "TNOS",
+    "description": "Thoai Nguyen On Solana",
+    "image": "https://raw.githubusercontent.com/nguyenthoai248/my-token-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
